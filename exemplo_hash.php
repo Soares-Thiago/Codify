@@ -14,7 +14,7 @@ $hash   = Codify::hash_hmac_codigo($_SESSION["security_session_key"],$codigo);
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Thiago Pontes Soares</title>
     </head>
     <body>
         <form

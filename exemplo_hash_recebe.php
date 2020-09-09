@@ -5,7 +5,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Thiago Pontes Soares</title>
     </head>
     <body>
         <?php
