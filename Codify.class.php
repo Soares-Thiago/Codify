@@ -17,6 +17,7 @@
  * Data de criação....: 24/04/2020                                              *
  * ******************************************************************************
  */
+
 require_once "random_compat-master/lib/random.php";
 
 class Codify {
